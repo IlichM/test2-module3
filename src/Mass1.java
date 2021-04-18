@@ -8,6 +8,6 @@ public class Mass1 {
         for (int i=0; i<nums.length; i++) {
             System.out.println(nums[i]);
         }
-        System.out.print("Готово");
+        System.out.print("Готово2");
     }
 }
